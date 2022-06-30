@@ -18,15 +18,11 @@ ul li a{
     display: flex;
     max-width: 992px;
     margin: auto;
-<<<<<<< HEAD
     width: 100%;
-=======
->>>>>>> 828a1272ec3e26627bfb32b2e690d47393141832
 }
 
 header{
     background-color: #122a57;
-<<<<<<< HEAD
     height: 100px;
     display: flex;
     align-items: center;
@@ -43,6 +39,4 @@ header .list-itens{
 
 header .menu{
     justify-content: space-between;
-=======
->>>>>>> 828a1272ec3e26627bfb32b2e690d47393141832
 }
